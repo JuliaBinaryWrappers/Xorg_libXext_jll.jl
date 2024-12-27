@@ -1,119 +1,128 @@
 [[Xorg_libXext]]
 arch = "aarch64"
-git-tree-sha1 = "d27bb9958402222f4d714a483becf7dfc9c8fc61"
+git-tree-sha1 = "b07138e1c3c1addd616628ff1113471ab91b3546"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "f699299d2f84a3534435e2054c8418dd5a821fc903b3df65a232ffa41aaa8b85"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.aarch64-linux-gnu.tar.gz"
+    sha256 = "57cc17870e8efff02003024fcc204d22de1b36a3ba4e4aa79280525ea47c34ee"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.aarch64-linux-gnu.tar.gz"
 [[Xorg_libXext]]
 arch = "aarch64"
-git-tree-sha1 = "491c3f51877f4fa1c2cc92818b2523d68dbaf19f"
+git-tree-sha1 = "bb7d6d5cd66bb912d8c1da7234c15261d47985f4"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "d983a966581b7520bf931e1ef3796628811dc46737b60fe696046af3aaa474ea"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.aarch64-linux-musl.tar.gz"
+    sha256 = "58d183772e87794d4f686555f0e917dc8cc74600b0cf44691e7ae59eab789dbd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.aarch64-linux-musl.tar.gz"
 [[Xorg_libXext]]
 arch = "aarch64"
-git-tree-sha1 = "25062a7640ab8b4b95bc96e345161989e6403dae"
+git-tree-sha1 = "cc1f2a1ac0da0baaa0bc888b0a35fba73c97547b"
 os = "freebsd"
 
     [[Xorg_libXext.download]]
-    sha256 = "495456102b14380891fac82b4f9e944f458e3b059d09670233c7a4eec19dfd54"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "0e85a978dd50cb384278d06d60a4eda7f4cba11f77506ceefd422eb4be841e83"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_libXext]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f406f133ecfb8bfdaf971468d3774f4244e8a7f6"
+git-tree-sha1 = "6e275cdccff592e91071c48a8881c24b05d37f8d"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "ae26de166a3f8c227b93892ff282c8465db7bb07b90227baceb5ee21d6fe7a13"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9925594b8cf58ecee7e91033a4423c7e5b815b21f2e7cfa80b2614fc3fc772d0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libXext]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f8e85310cfddadba2180f91c48268f299c897308"
+git-tree-sha1 = "a7e19d0afe05102c934a8bc00d3a668dcd83984e"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "a2b62ce798bacf9e1891cc6230fec4dd3f2b38a28ea3f63f67eeeb4df10cd27e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "28ca98e8748f015e44c2c25f61f5fde45c92e9f0f7c32b1a3b24e246c93ec23d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libXext]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a43af734ad03762b701aa1933537fc8a79309119"
+git-tree-sha1 = "5cdeacc62438f1557100e8b9e1a177964980b70d"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "1429572ba1fc930b6f4b436784e18cdb8b27260a7a0dcb94953b04ee3e95cd03"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "815bd2f18dffb2bfe8782bd16c527ba8410aeed585f75180cd7d000ad070eed9"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libXext]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "00a491a6d3397510917b3d0628c35dab59d9ea29"
+git-tree-sha1 = "58ba01574575908d4fcf1ed0c1e9aaf19d7f3e9d"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "81b63bc1b471f15b4cfee701bb08f77a578f6ef49f716ad426730d0281c4dbe0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e475fd4650d0ac4253796d8fad65f5f0a4d0e82f144421b77ed71d375174584d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_libXext]]
 arch = "i686"
-git-tree-sha1 = "126dec48e079455e1d6b0b28cb64486d7d5677a8"
+git-tree-sha1 = "043d208f919b357ee88a233443eda67677fc7c1a"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "fcf2f2f911c2929d72054fa488b4cf9a200d4a9ae6a9b7a3265bc53d7f465444"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.i686-linux-gnu.tar.gz"
+    sha256 = "87dee8f5b395626dd4c66f03caa8b56cb72c8a430a352ee438891289c59bf38f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.i686-linux-gnu.tar.gz"
 [[Xorg_libXext]]
 arch = "i686"
-git-tree-sha1 = "f3af78da499606141ed562fe7ba744290f5a7a5a"
+git-tree-sha1 = "fb528a0ffa9256447c733d63cb45691ed1bdc58f"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "0e93d81930bfe64215c33cfeb30f09d4a088beb213922ee9ce11c04ea5f50eb1"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.i686-linux-musl.tar.gz"
+    sha256 = "beca48dc36c1f0315885c21466c6c7a6b1ad90aa28c6a0796636bf858c96efaf"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.i686-linux-musl.tar.gz"
 [[Xorg_libXext]]
 arch = "powerpc64le"
-git-tree-sha1 = "556ba5ad7086b072a5efddd2a001258a60e2f347"
+git-tree-sha1 = "e13d7316502333b3debb65e567801cbfeb0832e3"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "0eaa41ce79466bfac4ed575c5051da595377e4632c1727ba60b8ad158d0ac2f7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "63adaebd88f413589042f7b5ee2ce1f2f05e42153819cc6290259d9f2936e7d2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libXext]]
-arch = "x86_64"
-git-tree-sha1 = "2b9ac56bc0585f3b03cd92f988f0d07c6ab12822"
+arch = "riscv64"
+git-tree-sha1 = "a9bbc03a9c7bffe3e21b4220f8cb2d83f08c144f"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "d2f84e4dd9f65850ed5dd0e0877a91d36789689ec86543bf69f8aefa0290db1f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "72a01a8243d206980d02539a7fe1cde8db7234a86117874d12549c19e90d2243"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.riscv64-linux-gnu.tar.gz"
 [[Xorg_libXext]]
 arch = "x86_64"
-git-tree-sha1 = "c8cb728ea5664b6280f0d9a3e21eca0599d2308c"
+git-tree-sha1 = "fe5a75ed3d27d02c9670ac8afde593f17ecfb57e"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXext.download]]
+    sha256 = "a5e1e946798a699fd066d052f9d67a50012ec878852a5f1f74573d913d725ff4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXext]]
+arch = "x86_64"
+git-tree-sha1 = "9a379416de0a3c8523deb066ae35bde1d7526570"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXext.download]]
-    sha256 = "069991d25dbc90d0775f7d2d08c2d995f21cf348c8511383b85e95f246b4a02e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.x86_64-linux-musl.tar.gz"
+    sha256 = "d0f608dcbf42c9eaf0376df942c12a4d999b31b8d55c9ee4cef9b23014ae06f0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.x86_64-linux-musl.tar.gz"
 [[Xorg_libXext]]
 arch = "x86_64"
-git-tree-sha1 = "ac9867176f0b59cf120036e307e5683648fca7df"
+git-tree-sha1 = "c1d01f351c59f8b07fe51362549cf24cc981d545"
 os = "freebsd"
 
     [[Xorg_libXext.download]]
-    sha256 = "c2744d8f47450c44e95b9e786980cb223b741a4d096bd7751bfb5e4019218c64"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+1/Xorg_libXext.v1.3.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "82815b0fc93e0d90d361827acdba31ed101d7af82a006dbb4f647b57e743a4a4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXext_jll.jl/releases/download/Xorg_libXext-v1.3.6+2/Xorg_libXext.v1.3.6.x86_64-unknown-freebsd.tar.gz"
